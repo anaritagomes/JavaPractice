@@ -21,7 +21,7 @@ public class AllNumbersAreEqual {
 			System.out.println("All numbers are equal.");
 		} else if (numbers[0] != numbers[1] && numbers[0] != numbers[2] && numbers[1] != numbers[2]){
 			System.out.println("All numbers are different.");
-		} else {
+		} else { 
 			System.out.println("Neither all are equal or different.");
 		}
 	}
