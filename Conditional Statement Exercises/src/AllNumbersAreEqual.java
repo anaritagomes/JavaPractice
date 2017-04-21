@@ -15,7 +15,7 @@ public class AllNumbersAreEqual {
 			numbers[i] = sc.nextInt();
 		}
 
-		sc.close(); //http://stackoverflow.com/questions/15613626/scanner-is-never-closed
+		sc.close(); //http://stackoverflow.com/questions/15613626/scanner-is-never-closed 
 		
 		if(numbers[0] == numbers[1] && numbers[0] == numbers[2]){
 			System.out.println("All numbers are equal.");
