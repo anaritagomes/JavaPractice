@@ -12,6 +12,7 @@ public class CountWordsInString {
         String str = in.nextLine();  
   
         System.out.print("Number of words in the string: " + count_Words(str)+"\n");  
+        in.close();
     }  
   
  public static int count_Words(String str)  
