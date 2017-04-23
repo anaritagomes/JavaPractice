@@ -3,22 +3,21 @@ package collectionAndArrayList;
 import java.util.ArrayList;
 
 /**
- * Java program to insert an element into the list at the first position
+ * Java program that removes the third element from a list.
  * @author rita
  *
  */
-public class InsertElementsAtFirstPosition {
+public class DeleteListElement {
 	
 	public static void main(String[] args) {
-		// Create a list and add some colors to the list
+		
 		ArrayList<String> al = new ArrayList<>();
-	
 		al.add("red");
 		al.add("black");
 		al.add("green");
 		al.add("yellow");
-		
-		al.add(0, "first element");
-		System.out.println(al);
+		al.remove(2);
+		System.out.println(al); //"green" will be missing
 	}
+	
 }

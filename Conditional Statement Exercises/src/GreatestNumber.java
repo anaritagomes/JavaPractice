@@ -1,8 +1,12 @@
 import java.util.Arrays;
 import java.util.Scanner;
+/**
+ * Java program that takes three numbers from the user and prints the greatest number 
+ * @author rita
+ *
+ */
 
 public class GreatestNumber {
-//Take three numbers from the user and print the greatest number
 	
 	public static void main(String[] args) {
 		System.out.println("Insert 3 numbers:");

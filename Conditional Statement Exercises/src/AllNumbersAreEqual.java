@@ -1,9 +1,15 @@
 import java.util.Scanner;
 
+/**
+ * Java program that accepts three numbers and prints "All numbers are equal" 
+ * if all three numbers are equal, "All numbers are different" if all three numbers are 
+ * different and "Neither all are equal or different" otherwise.
+ * @author rita
+ *
+ */
 public class AllNumbersAreEqual {
-//	Write a Java program that accepts three numbers and prints "All numbers are equal" 
-//	if all three numbers are equal, "All numbers are different" if all three numbers are 
-//	different and "Neither all are equal or different" otherwise.
+	
+	//	
 	
 	public static void main(String[] args) {
 

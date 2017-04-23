@@ -2,7 +2,12 @@ package Methods;
 
 import java.util.Scanner;
 
-// Write a Java method to count all words in a string.
+/**
+ * Java method to count all words in a string.
+ * @author rita
+ *
+ */
+
 public class CountWordsInString {
 	
   public static void main(String[] args)  

@@ -2,7 +2,11 @@ package Methods;
 
 import java.util.Scanner;
 
-//Write a Java method to compute the average of three numbers.
+/**
+ * Write a Java method to compute the average of three numbers. 
+ * @author rita
+ *
+ */
 
 public class AverageOfThreeNumbers {
 
