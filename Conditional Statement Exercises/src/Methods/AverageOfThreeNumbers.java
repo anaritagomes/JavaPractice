@@ -22,7 +22,7 @@ public class AverageOfThreeNumbers {
 	}
 	
 	public static double getAverage(int num1, int num2, int num3){
-		
+		 
 		double average = (num1 + num2 + num3)/3;
 		System.out.println("The average is " + average);
 		
