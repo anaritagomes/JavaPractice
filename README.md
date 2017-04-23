@@ -1,2 +1,2 @@
 # Conditional Statement Exercices
-Java Conditional Statement Exercices for practicing purposes
+Java mini programs for practicing purposes
