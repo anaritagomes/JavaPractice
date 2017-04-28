@@ -6,6 +6,8 @@ public class JavaLessonFourteen {
 		Animals genericAnimal = new Animals();
 		System.out.println(genericAnimal.getName()); //Animal
 		System.out.println(genericAnimal.favFood); //Food
+		genericAnimal.walkAround(); //Animal walks around
+		
 		
 		Cat morris = new Cat("Morris", "Tuna", "Rubber mouse");
 		
@@ -13,5 +15,7 @@ public class JavaLessonFourteen {
 		System.out.println(morris.getName()); //Morris
 		System.out.println(morris.favFood); //Tuna
 		System.out.println(morris.favToy); //Rubber mouse
+		
+		morris.walkAround(); //Morris stalks around
 	}
 }

@@ -13,8 +13,8 @@ public class Cat extends Animals {
 		System.out.println("Yeah! " + favToy);
 	}
 	
-	public void walkAroud(){
-		System.out.println(this.getName() + "stalks around");
+	public void walkAround(){
+		System.out.println(this.getName() + " stalks around");
 	}
 	
 	public String getToy(){
